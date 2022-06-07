@@ -11,7 +11,8 @@ import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;
-import uk.tw.energy.builders.MeterReadingsBuilder;
+
+import uk.tw.energy.Meter.MeterReadingsBuilder;
 import uk.tw.energy.meterReading.MeterReadings;
 
 import static org.assertj.core.api.Assertions.assertThat;

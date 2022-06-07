@@ -1,4 +1,4 @@
-package uk.tw.energy.builders;
+package uk.tw.energy.Meter;
 
 import uk.tw.energy.Electricity.ElectricityReading;
 import uk.tw.energy.Electricity.ElectricityReadingsGenerator;
